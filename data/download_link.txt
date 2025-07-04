@@ -1,0 +1,8 @@
+Link : https://drive.google.com/file/d/1EnHHr7waL6tgmQhgbntMzYvZeRsLzUDg/view?usp=sharing
+
+Follow this link and download Training.zip file and extract here.
+Folder structure should be,
+	- data
+	  - training
+	      - notumor
+		  -(image files:1595 files)

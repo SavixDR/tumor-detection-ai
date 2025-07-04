@@ -1,0 +1,11 @@
+Link : https://drive.google.com/file/d/1ZKX8fWdCSR6cN0rud2cj5-dbWQcuIqYt/view?usp=sharing
+
+Follow this link and download models.zip file and extract here.
+Folder structure should be,
+	- models
+	  - ensemble_model_1.h5
+	  - ensemble_model_2.h5
+	  - ensemble_model_3.h5
+	  - ensemble_model_4.h5
+	  - ensemble_model_5.h5
+	  - my_cnn_model_4.h5
